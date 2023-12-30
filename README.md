@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bestnoob231
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me keremandac240@gmail.com
 
 <!---
